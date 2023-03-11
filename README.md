@@ -10,3 +10,7 @@ Currently using:
 * Servos
 * Ultrasonic distance sensor
 * Arduino UNO
+
+## Rough Diagram
+
+![](https://github.com/mrworldwide1/MeanMachine-TEJ3M/blob/main/RoughDiagram.png?raw=true "diagram")
