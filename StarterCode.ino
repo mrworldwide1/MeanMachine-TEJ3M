@@ -4,7 +4,7 @@
 // make a new servo object
 Servo servo;
 
-//define the pins
+//define the ultrasonic sensor pins
 int trigPin = 9;
 int echoPin = 8;
 
