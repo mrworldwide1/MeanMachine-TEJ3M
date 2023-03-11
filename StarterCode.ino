@@ -4,7 +4,7 @@
 // make a new servo object
 Servo servo;
 
-//define the ultrasonic sensor pins
+//define the ultrasonic distance sensor pins
 int trigPin = 9;
 int echoPin = 8;
 
@@ -41,7 +41,7 @@ void loop() {
   // Prints the distance on the Serial Monitor
   Serial.print("Distance: ");
   Serial.println(distance);
-  if (distance <= 25) // Change Distance according to Ultrasonic Sensor Placement
+  if (distance <= 25) // Change distance according to Ultrasonic Sensor Placement
   {
     servo.write(0);
     delay(3000);
