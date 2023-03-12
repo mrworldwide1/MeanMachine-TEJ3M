@@ -14,3 +14,7 @@ Currently using:
 ## Rough Diagram
 
 ![](https://github.com/mrworldwide1/MeanMachine-TEJ3M/blob/main/RoughDiagram.png?raw=true "diagram")
+
+## TinkerCAD 3D Model
+
+Link: https://www.tinkercad.com/things/7Kpe4X5WSiR-frantic-bombul/edit?sharecode=cdwAVBINbyUWKfKS05UbLMN0y6GFnaxLg_mkrBNeiok
